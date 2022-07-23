@@ -10,7 +10,7 @@
     <div class="container col-xxl-8 ">
         <div class="row flex-lg-row-reverse align-items-center ">
             <div class="col-10 col-sm-8 col-lg-6">
-                <img src="https://i.ibb.co/99n6PnL/1.png" class="d-block mx-lg-auto img-fluid"
+                <img src="https://i.ibb.co/qnJLzhv/1.png" class="d-block mx-lg-auto img-fluid"
                     alt="Bootstrap Themes" width="600" height="400" loading="lazy">
             </div>
             <div class="col-lg-6">

@@ -1,9 +1,9 @@
 @extends('adminlte::page')
 
-@section('title', 'HHS Panel administrador')
+@section('title', 'Edufree Panel administrador')
 
 @section('content_header')
-    <h1>HHS Panel Administrador</h1>
+    <h1>Edufree Panel Administrador</h1>
 @stop
 
 @section('content')

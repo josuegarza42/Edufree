@@ -1,12 +1,12 @@
-<nav class="bg-[#030C2E]" x-data="{ open: false }">
+<nav class="bg-[#F7CB2C]" x-data="{ open: false }">
     <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <div class="relative flex items-center justify-between h-16">
 
             <!-- Mobile menu button-->
             <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
-
+            F7CB2C
                 <button x-on:click="open=true" type="button"
-                    class="inline-flex items-center justify-center p-2 rounded-md text-white hover:text-white hover:bg-emerald-600 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
+                    class="inline-flex items-center justify-center p-2 rounded-md text-white hover:text-white hover:bg-[#122052] focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
                     aria-controls="mobile-menu" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
 
@@ -26,11 +26,12 @@
                 <!-- logo-->
                 <a href="/" class="flex-shrink-0 flex items-center text-lg text-white">
                      <img class="block lg:hidden h-8 w-auto rounded-md mr-3"
-                        src="https://i.ibb.co/99n6PnL/1.png" alt="Edufree"> 
+                        src="https://i.ibb.co/qnJLzhv/1.png" alt="Edufree"> 
 
+ 
 
                     <img class="hidden lg:block h-8 w-auto rounded-md mr-3"
-                        src="https://i.ibb.co/99n6PnL/1.png" alt="Edufree"> Edufree
+                        src="https://i.ibb.co/qnJLzhv/1.png" alt="Edufree"> Edufree
                 </a>
                 <!-- menu lg-->
                 <div class="hidden sm:block sm:ml-6">

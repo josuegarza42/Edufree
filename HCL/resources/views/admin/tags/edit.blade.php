@@ -1,13 +1,13 @@
 @extends('adminlte::page')
 
-@section('title', 'HHS Panel administrador')
+@section('title', 'Edufree Panel administrador')
 
 @section('content_header')
     <h1>Editar Tag</h1>
 @stop
 
 @section('content')
-    <p>Bienvenido al panel de administracion de Holy Sensations Spa </p>
+    <p>Bienvenido al panel de administracion de Edufree </p>
     <div class="card">
 
         @if (session('info'))
